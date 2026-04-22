@@ -83,4 +83,17 @@ Su estructura consiste en celdas donde cada celda representacion una combinació
 dibujar circuito y tabla de verdad
 
 ### Parte Empirica
-chatbot
+#### CHATBOT
+El bot está programado para discutir la evolución de la industria, centrándose en hitos como la litografía de menos de 2nm y la integración de hardware especializado para Inteligencia Artificial.
+
+Estructura inicial donde nos sujetamos a gemini como IA de soporte por medio de API.
+<img width="1168" height="193" alt="image" src="https://github.com/user-attachments/assets/ed942e5e-fa4e-4343-ab96-10bc33d156fe" />
+
+El PROMT necesario para que nuestro chatbot sea un experto y darle la personalidad.
+<img width="1680" height="418" alt="image" src="https://github.com/user-attachments/assets/c67d2a79-7191-4f6d-8a58-e7ec555d7177" />
+
+Diseño del interfaz del CHATBOT.
+<img width="1209" height="327" alt="image" src="https://github.com/user-attachments/assets/c9fcf43b-eb4c-4c17-a98d-6a51cba41f00" />
+
+Prueba del chatbot
+<img width="1733" height="385" alt="image" src="https://github.com/user-attachments/assets/d9655e55-3292-42b7-bb94-64c37df1c3d4" />
