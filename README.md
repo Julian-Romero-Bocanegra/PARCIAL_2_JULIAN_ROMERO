@@ -45,11 +45,13 @@ Es el dispositivo mas usado y puedes solucionar el problema del FLIP FLOP SR cua
 Es un circuito secuencial que actua como filtro de datos digitales, selecciona entre varias lineas de entrada de datos y la dirige a una sola linea de salida.
 
 ##### EJEMPLO
+<img width="302" height="393" alt="image" src="https://github.com/user-attachments/assets/9ef38243-159a-42c3-8b42-04529e0fc41a" />
 
 #### DEMULTIPLEXOR
 Hace la operacion inversa al multiplexor recibe informacion atravez de una sola linea de entrada y la distribuye entre multiples lineas de salidas disponibles.
 
 ##### EJEMPLO
+<img width="501" height="420" alt="image" src="https://github.com/user-attachments/assets/0516194e-91b7-49cd-900e-f675b6a5d0bc" />
 
 #### SUMADOR COMPLETO
 
