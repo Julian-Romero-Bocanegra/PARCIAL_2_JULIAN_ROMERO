@@ -42,28 +42,26 @@ Es el dispositivo mas usado y puedes solucionar el problema del FLIP FLOP SR cua
 
 
 #### MULTIPLEXOR
-
+Es un circuito secuencial que actua como filtro de datos digitales, selecciona entre varias lineas de entrada de datos y la dirige a una sola linea de salida.
 
 ##### EJEMPLO
 
 #### DEMULTIPLEXOR
+Hace la operacion inversa al multiplexor recibe informacion atravez de una sola linea de entrada y la distribuye entre multiples lineas de salidas disponibles.
 
 ##### EJEMPLO
 
+#### SUMADOR COMPLETO
 
-3). sumardor compledio, medio y circuitos secuenciales
+#### SUMADOR MEDIO
 
-4). que es una mapa de karnaught y para que sirve
-
-
-
+#### CIRCUITO SECUENCIALES
 
 
+#### MAPA KARNAUGHT 
+Es una herramienta grafica que se usa para la simplificación de funciones booleanas, por medio del mapa de karnaught se puede reducir expressiones logicas a su forma minima.
 
-
-
-
-
+Su estructura consiste en celdas donde cada celda representacion una combinación unica de diferentes variables de entrada.
 
 ### Parte de Diseño
 ### Primer (1er.) punto
