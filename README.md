@@ -75,12 +75,15 @@ Su estructura consiste en celdas donde cada celda representacion una combinació
 ### Primer (1er.) punto
 <img width="566" height="80" alt="image" src="https://github.com/user-attachments/assets/a0a67e99-8ee2-4cbd-b65e-a4d4610aa8ee" />
 
+#### Circuito
+
 #### tabla de verdad 
 <img width="2160" height="1411" alt="image" src="https://github.com/user-attachments/assets/f4b6d743-480f-43bb-a4b0-b162f7bda972" />
 
-
 ### Segundo (2do.) punto
 <img width="594" height="80" alt="image" src="https://github.com/user-attachments/assets/0cd34ef0-d7d6-40fb-b702-f7e127831861" />
+
+#### Circuito
 
 #### Tabla de verdad
 <img width="2160" height="1279" alt="image" src="https://github.com/user-attachments/assets/43803e4f-b9ec-49fa-8c31-2ea37d3fd34a" />
