@@ -62,10 +62,10 @@ Es un circuito medio aritmetico cpaz de realizar una suma binaria de 2 bits indi
 #### CIRCUITO SECUENCIALES
 Es un sistema cuya salida no solo dependen de sus entradas, si no tambien del historial, almacenada en los elementos de memoria.
 
-##### SINCRONOS
+###### SINCRONOS
 El cambio de estado ocurre en momento especificos por la señal del reloj.
 
-##### ASINCRONOS
+###### ASINCRONOS
 El cambio del estado ocurre en cualquier momento a cambios de las entradas comunes.
 
 #### MAPA KARNAUGHT 
