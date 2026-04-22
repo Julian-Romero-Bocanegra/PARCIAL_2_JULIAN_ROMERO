@@ -54,11 +54,19 @@ Hace la operacion inversa al multiplexor recibe informacion atravez de una sola 
 <img width="501" height="420" alt="image" src="https://github.com/user-attachments/assets/0516194e-91b7-49cd-900e-f675b6a5d0bc" />
 
 #### SUMADOR COMPLETO
+Incorpora una entrada denominada acarreo, le permite procesar el acarreo generado por la columna de bits menos significativa.
 
 #### SUMADOR MEDIO
+Es un circuito medio aritmetico cpaz de realizar una suma binaria de 2 bits individuales y genera 2 salida (la suma y el acarreo)
 
 #### CIRCUITO SECUENCIALES
+Es un sistema cuya salida no solo dependen de sus entradas, si no tambien del historial, almacenada en los elementos de memoria.
 
+##### SINCRONOS
+El cambio de estado ocurre en momento especificos por la señal del reloj.
+
+##### ASINCRONOS
+El cambio del estado ocurre en cualquier momento a cambios de las entradas comunes.
 
 #### MAPA KARNAUGHT 
 Es una herramienta grafica que se usa para la simplificación de funciones booleanas, por medio del mapa de karnaught se puede reducir expressiones logicas a su forma minima.
