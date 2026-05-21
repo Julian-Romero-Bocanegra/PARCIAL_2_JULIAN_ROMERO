@@ -1,4 +1,4 @@
-# PARCIAL_2_JULIAN_ROMERO
+# JULIAN_ROMERO
 Integrantes: Julián Romero Bocanegra \
 Docente: Diego Alejandro Barragán Vargas. \
 Institución: Fundación Universitaria Compensar.
@@ -20,17 +20,17 @@ Es un aparato de bloque fundamentales, tiene una subidad (1 y 0) y bajada (0 y 1
 #### TIPOS DE FLIP FLOPS
 #### FLIP FLOP SR
 Tiene un funcinamiento parecido al LACHT SR, para SET se estable salida en alto 1 y para RESET se establece en bajo 0,  tambien si sus estradas estan iguales 1 - 1 es invalido.
-<img width="390" height="186" alt="image" src="https://github.com/user-attachments/assets/2cd921e3-6ba8-455f-a2bf-c93ad65cef4f" />
+<img width="390" height="186" alt="image" src="https://github.com/user-attachments/assets/2cd921e3-6ba8-455f-a2bf-c93ad65cef4f" /> /
 (imagen tomada: de la clase del 15 de abril del 2026, sistemas digitales)
 
 #### FLIP FLOP D 
 Es un dispositivo sincronico con el reloj, captira su entrada y la mantiene en la salida
-<img width="677" height="244" alt="image" src="https://github.com/user-attachments/assets/245fa695-6d26-4b5f-9782-c2bd459365f7" />
+<img width="677" height="244" alt="image" src="https://github.com/user-attachments/assets/245fa695-6d26-4b5f-9782-c2bd459365f7" /> /
 (imagen tomada: de la clase del 15 de abril del 2026, sistemas digitales)
 
 #### FLIP FLOP TOGGLE
 Hace algo parecido a lo del FLIP FLOP JK cambia la estrada 1 a 0 y puede mantener el estado anterior.
-<img width="731" height="374" alt="image" src="https://github.com/user-attachments/assets/6e5edd83-bef0-4128-853e-33fa7f4a5985" />
+<img width="731" height="374" alt="image" src="https://github.com/user-attachments/assets/6e5edd83-bef0-4128-853e-33fa7f4a5985" /> /
 (imagen tomada: de la clase del 15 de abril del 2026, sistemas digitales)
 
 #### FLIP FLOP JK  
